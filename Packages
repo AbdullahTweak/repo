@@ -112,8 +112,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts:	
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
-Size: 3003986 	
+Filename: debs/com.cokepokes.appstoreplusplus0.9.14-11iphoneos-arm.deb
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6	
 SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4	
 SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f	
