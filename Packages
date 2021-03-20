@@ -12,3 +12,19 @@ SHA256: 682f5b81d2d9e7985b9935743a97ea6513b779fe92e8318e74a2ad7b9630cab7
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: DeadTweak
+
+
+Package: me.nepeta.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 9.0), mobilesubstrate 	
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12	
+Filename: debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 73552	
+MD5sum: 46e9ccbe81d2f6c3670d0051194be14a	
+SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c	
+SHA256: e070d4537b5b1331ecf6f17cf9b06890222d70683323b5244a5391cbcc901b11	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: unsub
