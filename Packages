@@ -28,3 +28,19 @@ SHA256: e070d4537b5b1331ecf6f17cf9b06890222d70683323b5244a5391cbcc901b11
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: unsub
+
+
+Package: com.bandarhl.WASend
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 5.0), mobilesubstrate 	
+Conflicts: co.vexation.nosubstitute,	
+Filename: debs/com.bandarhl.WASend_1.0_iphoneos-arm.deb
+Size: 9956	
+MD5sum: 2a4e35839792d39f3b615dd59ca0c8e5	
+SHA1: b34e704843ba40b22ca209ebbdbb48f3f521809f	
+SHA256: 7e7ff0ccd9100b021442101ab56f817156d48aa5e8d3835d38faf79d84accf76	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: WASend
