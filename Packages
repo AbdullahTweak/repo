@@ -97,10 +97,26 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  firmware (>= 5.0), mobilesubstrate 	
 Conflicts:	
-Filename: debs/DzSnap_1.0.3_4T.deb
+Filename: debs/DzSnap1.0.34T.deb
 MD5sum: 4a3c9b46d009d31a1324aa10b2bf8eb0	
 SHA1: 550a44c93c29f1ed4a2047d7206ea07ea38de780	
 SHA256: f31c8df851c116b22b191e8c4bfce29563b22a1addaed7c4d6f40bb50b9fa14b	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: DzSnap 
+
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.14-11
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts:	
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
+Size: 3003986 	
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6	
+SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4	
+SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: appstore++
