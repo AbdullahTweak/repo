@@ -23,7 +23,7 @@ Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
 Filename: debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
 Size: 73552	
 MD5sum: 46e9ccbe81d2f6c3670d0051194be14a	
-SHA1: d79b8102f81d0f48a430744de142ae1c50c4f7a8	
+SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c	
 SHA256: e070d4537b5b1331ecf6f17cf9b06890222d70683323b5244a5391cbcc901b11	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -75,3 +75,19 @@ SHA256: 19f5f9e8c0e8c41455032e9c8367b76072175dcdb5060a5fec1c008e9be9363c
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: AlAhliMobile
+
+
+Package: me.nepeta.selector
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)	
+Filename: debs/com.alahli.alahlimobile_3.0.0-1_iphoneos-arm.deb
+Size: 45150
+MD5sum: 785b5625df8c6e85696b0407af0fb55d	
+SHA1: 4886f4379d2a6e7b9d55ae5077472cd33ed93a82	
+SHA256: 3424ee7c3539711e91cbb5b611498ec816b8b9b6afcf539a2808aa3b938f19bc	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: Selector
+
