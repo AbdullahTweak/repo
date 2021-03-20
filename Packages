@@ -52,9 +52,26 @@ Maintainer: AbdullahTweak
 Depends:  mobilesubstrate 	
 Conflicts: co.vexation.nosubstitute,	
 Filename: debs/com.cydiabc.picsarthack_1.1-1_iphoneos-arm.deb
+size: 68132
 MD5sum: 52c563bbbdc48c7c63aa504746ca1900	
 SHA1: d4c6f8e1d3871e2c90a5536cf5def6f2a3b3b5dd	
 SHA256: 94e7a6151e7c2ea11595fd73d86190c281be7657945134e724ad5980d3f2b7c0	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: PicsartHack
+
+
+Package: com.alahli.alahlimobile
+Version: 3.0.0-1
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 7.0), mobilesubstrate (>= 0.9.5000) 	
+Conflicts: co.vexation.nosubstitute,	
+Filename: debs/com.alahli.alahlimobile_3.0.0-1_iphoneos-arm.deb
+Size: 194546
+MD5sum: 22b485777926b7030fbcec5e4f822aa3	
+SHA1: d4fd3a74835255ab7b56c1f450af85403cce12e8	
+SHA256: 19f5f9e8c0e8c41455032e9c8367b76072175dcdb5060a5fec1c008e9be9363c	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: AlAhliMobile
