@@ -53,7 +53,7 @@ Maintainer: AbdullahTweak
 Depends:  firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ru.rejail.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist, ru.rejail.adblockplus
  Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack 	
 Conflicts: co.vexation.nosubstitute,	
-Filename: debs/com.bandarhl.WASend_1.0_iphoneos-arm.deb
+Filename: debs/ru.rejail.watusi_1.3.1k_iphoneos-arm.deb
 Size: 4121156	
 MD5sum: d8f791221b7f5fd4c1f122e2a060915b	
 SHA1: 89a6df6d5808d03d301f2789ab51abe8f5be0029	
@@ -62,3 +62,18 @@ Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: Watusi
 
+
+Package: ru.rejail.watusitools
+Version: 2.1.25
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2	
+Filename: debs/ru.rejail.watusitools_2.1.25_iphoneos-arm.deb
+Size: 13819278	
+MD5sum: b965db0063f539b53d909f11b2f6ec5e	
+SHA1: ee0d0018a50b20bba83c0ba2efac277e02ab686c	
+SHA256: 1ef357ef2a118e364232604d2e732d2a381b00dd88949a9db67f97fa1faa9268	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: Watusi Tools
