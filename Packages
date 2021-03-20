@@ -67,7 +67,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  firmware (>= 7.0), mobilesubstrate (>= 0.9.5000) 	
 Conflicts: co.vexation.nosubstitute,	
-Filename: debs/com.alahli.alahlimobile_3.0.0-1_iphoneos-arm.deb
+Filename: debs/me.nepeta.selector_0.1.3_iphoneos-arm.deb
 Size: 194546
 MD5sum: 22b485777926b7030fbcec5e4f822aa3	
 SHA1: d4fd3a74835255ab7b56c1f450af85403cce12e8	
