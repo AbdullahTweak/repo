@@ -28,18 +28,3 @@ SHA256: e070d4537b5b1331ecf6f17cf9b06890222d70683323b5244a5391cbcc901b11
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: unsub
-
-
-Package: jp.akusio.backgrounderaction13
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak	
-Depends:  mobilesubstrate, 		
-Filename: debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 16144	
-MD5sum: 9ae10824d3eec02f2b1dbec83a261822	
-SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c	
-SHA256: 14215d9a1243d8ab7d2cf08c4061f48a147c52b0ac472253d3691696761ec91b	
-Section: Tweaks
-Depiction: https://AbdullahTweak.github.io/repo
-Name: backgroundrachtion13
