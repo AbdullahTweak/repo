@@ -82,8 +82,7 @@ Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)	
-Filename: debs/com.alahli.alahlimobile_3.0.0-1_iphoneos-arm.deb
-Size: 45150
+Filename: debs/me.nepeta.selector_0.1.3_iphoneos-arm.deb
 MD5sum: 785b5625df8c6e85696b0407af0fb55d	
 SHA1: 4886f4379d2a6e7b9d55ae5077472cd33ed93a82	
 SHA256: 3424ee7c3539711e91cbb5b611498ec816b8b9b6afcf539a2808aa3b938f19bc	
