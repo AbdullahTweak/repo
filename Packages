@@ -51,8 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  mobilesubstrate 	
 Conflicts: co.vexation.nosubstitute,	
-Filename: debs/com.bandarhl.WASend_1.0_iphoneos-arm.deb
-Size: 68132	
+Filename: debs/com.cydiabc.picsarthack_1.1-1_iphoneos-arm.deb
 MD5sum: 52c563bbbdc48c7c63aa504746ca1900	
 SHA1: d4c6f8e1d3871e2c90a5536cf5def6f2a3b3b5dd	
 SHA256: 94e7a6151e7c2ea11595fd73d86190c281be7657945134e724ad5980d3f2b7c0	
