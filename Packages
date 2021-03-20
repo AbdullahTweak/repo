@@ -90,3 +90,17 @@ Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: Selector
 
+
+Package: com.toyopagroup.picaboo
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends:  firmware (>= 5.0), mobilesubstrate 	
+Conflicts:	
+Filename: debs/DzSnap_1.0.3_4T.deb
+MD5sum: 4a3c9b46d009d31a1324aa10b2bf8eb0	
+SHA1: 550a44c93c29f1ed4a2047d7206ea07ea38de780	
+SHA256: f31c8df851c116b22b191e8c4bfce29563b22a1addaed7c4d6f40bb50b9fa14b	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: DzSnap 
