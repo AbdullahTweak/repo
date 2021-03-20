@@ -36,8 +36,6 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  mobilesubstrate, 		
 Filename: debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
-
-
 Size: 16144	
 MD5sum: 9ae10824d3eec02f2b1dbec83a261822	
 SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c	
