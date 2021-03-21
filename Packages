@@ -118,23 +118,6 @@ SHA256: 10fc8aa0f941a650e98b797e1ce2cfa75ff4c981f2b523f60b32553848ae0820
 Section: Theme
 Name: Darque 6.4 
 
-
-Package: ru.rj.carbridge13
-Version: 2.0.6k
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
- Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: deb/ru.rj.carbridge13_2.0.6k_iphoneos-arm.deb
-Description: تشغيل شاشة الهاتف في شاشات السيارات التي تدعم كار بلاي
-Size: 311762
-MD5sum: 7bbd9cbedae122fc0eba004859cbdcc1
-SHA1: fd537611f90edad54301fdc76731d6df002afd13
-SHA256: 2ebf1deafa864cb31416c2a86d8d4e1b5d08391d390bfd837dd234ca21e1e6e8
-Section: Tweaks
-Name: Carbridge 13  
-
-
 Package: ru.rejail.adblockplus
 Version: 1.4.3
 Architecture: iphoneos-arm
