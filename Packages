@@ -134,3 +134,19 @@ SHA256: 9ba784453270ca77c501122267e10fc105c1e977c8767e7dc98cd565f91cf3cb
 Section: Tweaks
 Depiction: اداة النسخ المتعدد 
 Name: CooyPasta
+
+
+Package: jp.soh.reprovision
+Version: 0.6.0~release
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: firmware (>= 9.0) 
+Filename: deb/jp.soh.reprovisionreleaseiphoneos-arm.deb
+Description: لتجديد الشهايد معدلة جديدة
+Size:15949380
+MD5sum: 4a54a397a3da0e3c19b87583274724c2
+SHA1: 0206ca277ad3c120497a6b26acc533cf294525cd
+SHA256: ee9c96a39245be1230dfcf9f62b913c30997e6416cf0418c6ea1bd0d69635ac7
+Section: System
+Name: ReProvision Reborn
+
