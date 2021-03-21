@@ -119,3 +119,20 @@ SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: appstore++
+
+
+Package: love.litten.copypasta
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: اداة النسخ المتعدد
+Maintainer:  AbdullahTweak
+Depends:  mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist 	
+Conflicts:
+Filename: debs/love.litten.copypasta_1.3.2_iphoneos-arm.deb
+size: 213254
+MD5sum: c7b9b03e4d8f622c270980cf0d3f0e51	
+SHA1: 635c6b115c85fc859947e698bc3ec7735a09ec2e	
+SHA256: 9ba784453270ca77c501122267e10fc105c1e977c8767e7dc98cd565f91cf3cb	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: CopyPasta
