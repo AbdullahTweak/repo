@@ -61,22 +61,6 @@ Depiction: https://AbdullahTweak.github.io/repo
 Name: PicsartHack
 
 
-Package: com.alahli.alahlimobile
-Version: 3.0.0-1
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak	
-Depends:  firmware (>= 7.0), mobilesubstrate (>= 0.9.5000) 	
-Conflicts: co.vexation.nosubstitute,	
-Filename: debs/com.alahli.alahlimobile_3.0.0-1_iphoneos-arm.deb
-Size: 194546
-MD5sum: 22b485777926b7030fbcec5e4f822aa3	
-SHA1: d4fd3a74835255ab7b56c1f450af85403cce12e8	
-SHA256: 19f5f9e8c0e8c41455032e9c8367b76072175dcdb5060a5fec1c008e9be9363c	
-Section: Tweaks
-Depiction: https://AbdullahTweak.github.io/repo
-Name: AlAhliMobile
-
-
 Package: me.nepeta.selector
 Version: 0.1.3
 Architecture: iphoneos-arm
@@ -106,31 +90,16 @@ Depiction: https://AbdullahTweak.github.io/repo
 Name: DzSnap 
 
 
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.14-11
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak	
-Depends:  firmware (>= 11.0), mobilesubstrate 	
-Conflicts:	
-Filename: debs/com.cokepokes.appstoreplusplus0.9.14-11iphoneos-arm.deb
-MD5sum: a30f8a79a53c9abbfe257d489f2a26f6	
-SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4	
-SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f	
-Section: Tweaks
-Depiction: https://AbdullahTweak.github.io/repo
-Name: appstore++
-
-
-Package: apt.ajbbo.net.copysourcesswift
-Version: 1.0
+Package: com.bandarhl.ytad
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak
-Depends: firmware (>= 11.0) 
-Filename: deb/apt.ajbbo.net.copysourcesswift_1.0_iphoneos-arm.deb
-Description: نسخ سورسات السيديا والاحتفاظ بها لمرة واحدة
-Size: 1922940
-MD5sum: 945a58d72ba8b5d840cd4d4255f647ff
-SHA1: d578c8bd5ebbd3156f66cd30354e831eba23782e
-SHA256: 5406f0452e8a0865bb80cc800f5197a8ae7afd3161b1e0ccbe44c5c5401d42a1
+Depends: firmware (>= 9.0) 
+Filename: deb/com.bandarhl.ytad_0.0.1-1+debug_iphoneos-arm.deb
+Description: حذف الاعلانات المزعجة من تطبيق اليوتيوب
+Size:5842
+MD5sum: b92b44ed0ba405599652180e4f7aa2b4
+SHA1: 4096341d1aa2aa8b6b096cf08babbfeccb7b5106
+SHA256: 0a31f9bce9d4adae7bd5b1b62421d640e8ba146ce62c37ffb7b783f2350b3312
 Section: Tweaks
-Name: Source Manager 
+Name: YTAD
