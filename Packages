@@ -121,17 +121,16 @@ Depiction: https://AbdullahTweak.github.io/repo
 Name: appstore++
 
 
-Package: jp.soh.reprovision
-Version: 0.6.0~release
+Package: apt.ajbbo.net.copysourcesswift
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak
-Depends: firmware (>= 9.0) 
+Depends: firmware (>= 11.0) 
 Filename: deb/jp.soh.reprovisionreleaseiphoneos-arm.deb
-Description: لتجديد الشهايد معدلة جديدة
-Size:15949380
-MD5sum: 4a54a397a3da0e3c19b87583274724c2
-SHA1: 0206ca277ad3c120497a6b26acc533cf294525cd
-SHA256: ee9c96a39245be1230dfcf9f62b913c30997e6416cf0418c6ea1bd0d69635ac7
-Section: System
-Name: ReProvision Reborn
-
+Description: نسخ سورسات السيديا والاحتفاظ بها لمرة واحدة
+Size: 1922940
+MD5sum: 945a58d72ba8b5d840cd4d4255f647ff
+SHA1: d578c8bd5ebbd3156f66cd30354e831eba23782e
+SHA256: 5406F0452E8A0865BB80CC800F5197A8AE7AFD3161B1E0CCBE44C5C5401D42A1
+Section: Tweaks
+Name: Source Manager 
