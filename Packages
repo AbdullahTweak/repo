@@ -126,7 +126,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak
 Depends: firmware (>= 11.0) 
-Filename: deb/jp.soh.reprovisionreleaseiphoneos-arm.deb
+Filename: deb/apt.ajbbo.net.copysourcesswift_1.0_iphoneos-arm.deb
 Description: نسخ سورسات السيديا والاحتفاظ بها لمرة واحدة
 Size: 1922940
 MD5sum: 945a58d72ba8b5d840cd4d4255f647ff
