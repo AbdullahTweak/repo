@@ -103,3 +103,17 @@ SHA1: 4096341d1aa2aa8b6b096cf08babbfeccb7b5106
 SHA256: 0a31f9bce9d4adae7bd5b1b62421d640e8ba146ce62c37ffb7b783f2350b3312
 Section: Tweaks
 Name: YTAD
+
+Package: ru.rejail.darque
+Version: 6.4
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: firmware (>= 9.0) 
+Filename: deb/ru.rejail.darque_6.4_iphoneos-arm.deb
+Description: ثيم جميل لتفعيله استخدم Snowboard او Anemone
+Size: 7987988
+MD5sum: ab0a083860c08df443827f7d6427e7e0
+SHA1: 786C71283B460676829502922D7868F85D46CF3D
+SHA256: 10fc8aa0f941a650e98b797e1ce2cfa75ff4c981f2b523f60b32553848ae0820
+Section: Tweaks
+Name: Darque 6.4 
