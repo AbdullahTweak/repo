@@ -162,3 +162,18 @@ SHA1: a5d2edafa4d4f01ba628e09fc9369df9be6ebfc4
 SHA256: 13d5f6a7e3edd37b0f7bbc1532bf3a4015f3d56c9d64263d3454cfd02fb01652
 Section: Tweaks
 Name: Folded
+
+
+Package: ca.ndoizo.bolders
+Version: 1.2.2-2
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader
+Filename: deb/ca.ndoizo.bolders_1.2.2-2_iphoneos-arm.deb
+Description: شكل جميل للمجلدات
+Size: 66614
+MD5sum: c8a3aa70cb37bd8cb23d3b240abdc8c0
+SHA1: 20d3aac5f62246570e8679837c6e26e0e93a8c72
+SHA256: cfdf024721ec7d17589cfba5051164c9e5f5122a20d8a4e09b39b814404c41f7
+Section: Tweaks
+Name: bolders
