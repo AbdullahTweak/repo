@@ -170,6 +170,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader
 Filename: deb/ca.ndoizo.bolders_1.2.2-2_iphoneos-arm.deb
+File
 Description: شكل جميل للمجلدات
 Size: 66614
 MD5sum: c8a3aa70cb37bd8cb23d3b240abdc8c0
