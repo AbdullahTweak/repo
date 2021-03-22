@@ -192,3 +192,18 @@ SHA1: 51f64e767fc6b3899d686878ee6c41ce46d54c81
 SHA256: 428b1d2a7794fa6c7e4ae0f96a2db6cd5e358c0b4339e3d29bd61fdc8c8bfa53
 Section: Tweaks
 Name: AlinmaBank
+
+
+Package: ru.rejail.liaca
+Version: 4.1.7
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: deb/ru.rejail.liaca_4.1.7_iphoneos-arm.deb
+Description: ثيم جميل 
+Size: 8626280
+MD5sum: 49d71115f4a05e7dd973bfc4b74445ea
+SHA1: c2f7cfe33218f9d8bdc224c5f8bfc0beec9fc1a2
+SHA256: 7571FF543994FE91CA763C391C8DA927F08F51AD88FDCE74B0581579577037E4
+Section: Theme
+Name: liaca
