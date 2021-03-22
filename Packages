@@ -177,3 +177,18 @@ SHA1: fea9d3527816913c6e650d264d3a2aaca9258b03
 SHA256: 8480db27118ca6ba3d3a0f8f5fb3a2f750df418442e7d951223b65258178dcbb
 Section: Tweaks
 Name: SilentRecorder
+
+
+Package: com.alinma.retail.mobile
+Version: 0.0.3-1
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: deb/alinmabank.deb
+Description: اخفاء تطبيق الانماء
+Size: 103588
+MD5sum: 08de828d03bc79286cf336abeb617927
+SHA1: 51f64e767fc6b3899d686878ee6c41ce46d54c81
+SHA256: 428b1d2a7794fa6c7e4ae0f96a2db6cd5e358c0b4339e3d29bd61fdc8c8bfa53
+Section: Bypass
+Name: AlinmaBank
