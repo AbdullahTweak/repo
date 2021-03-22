@@ -164,16 +164,16 @@ Section: Tweaks
 Name: Folded
 
 
-Package: ca.ndoizo.bolders
-Version: 1.2.2-2
+Package: com.imkpatil.silentrecorder
+Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader
-Filename: deb/bolders.deb
-Description: شكل جميل للمجلدات
-Size: 66614
-MD5sum: d09beae47c405a3439d80c26b82831af
-SHA1: 20d3aac5f62246570e8679837c6e26e0e93a8c72
-SHA256: cfdf024721ec7d17589cfba5051164c9e5f5122a20d8a4e09b39b814404c41f7
+Filename: deb/silentrecored.deb
+Description: اخفاء العلامة المائية الحمراء اثناء التصوير
+Size: 25898
+MD5sum: b0345ab133add3457aad279d9bf50156
+SHA1: fea9d3527816913c6e650d264d3a2aaca9258b03
+SHA256: 8480db27118ca6ba3d3a0f8f5fb3a2f750df418442e7d951223b65258178dcbb
 Section: Tweaks
-Name: bolders
+Name: SilentRecorder
