@@ -146,3 +146,19 @@ SHA1: 5d4d10f198a4b9bebd78a611357e3814d0392c43
 SHA256: e0edf27dfc6d92268b1b6751580120ca6750c2a064fb7b111c20f9610acd1420
 Section: Tweaks
 Name: Bazzi
+
+
+Package: xyz.burritoz.thomz.folded
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker
+Filename: deb/xyz.burritoz.thomz.folded_1.2.0_iphoneos-arm.deb
+File
+Description: شكل جميل لمجلدات التطبيقات
+Size: 414874
+MD5sum: 756da0ae919cd632beb069e95724f243
+SHA1: a5d2edafa4d4f01ba628e09fc9369df9be6ebfc4
+SHA256: 13d5f6a7e3edd37b0f7bbc1532bf3a4015f3d56c9d64263d3454cfd02fb01652
+Section: Tweaks
+Name: Folded
