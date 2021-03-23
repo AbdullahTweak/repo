@@ -65,7 +65,7 @@ Name: floded
 Package: com.imkpatil.silentrecorder
 Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: @1_lj6
+Maintainer: AbdullahTweak
 Depends: mobilesubstrate,
 Filename: debs/silentrecored.deb
 Size: 25898
