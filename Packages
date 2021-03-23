@@ -27,3 +27,33 @@ SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: appstore++
+
+Package: om.cokepokes.appstoreplusplus
+Version: 0.9.14-11
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends: firmware (>= 11.0), mobilesubstrate	
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/com.cokepokes.appstoreplusplus0.9.14-11iphoneos-arm.deb
+Size: 3003986 	
+MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
+SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4
+SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: appstore++
+
+Package: xyz.burritoz.thomz.folded
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak	
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker	
+Conflicts: com.burritoz.cartella, com.thomz.foldy
+Filename: debs/floded.deb
+Size: 414874 	
+MD5sum: 756da0ae919cd632beb069e95724f243
+SHA1: a5d2edafa4d4f01ba628e09fc9369df9be6ebfc4
+SHA256: 13d5f6a7e3edd37b0f7bbc1532bf3a4015f3d56c9d64263d3454cfd02fb01652	
+Section: Tweaks
+Depiction: https://AbdullahTweak.github.io/repo
+Name: floded
