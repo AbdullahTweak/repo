@@ -61,3 +61,21 @@ SHA256: 13d5f6a7e3edd37b0f7bbc1532bf3a4015f3d56c9d64263d3454cfd02fb01652
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: floded
+
+Package: com.imkpatil.silentrecorder
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate,
+Filename: debs/silentrecored.deb
+Size: 25898
+MD5: b0345ab133add3457aad279d9bf50156
+SHA1: fea9d3527816913c6e650d264d3a2aaca9258b03
+SHA256: 8480db27118ca6ba3d3a0f8f5fb3a2f750df418442e7d951223b65258178dcbb
+Depiction: http:abdullahtweak.github.io/repo
+SileoDepiction: http://abdullahtweak.github.io/repo
+Section: Tweaks
+Description: تصوير الشاشة فيديو بدون علامة مائية حمراء
+author: AbdullahTweak
+Installed-Size: 348
+Name: silentrecorder
