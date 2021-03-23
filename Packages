@@ -6,8 +6,8 @@ Depends:  firmware (>= 10.0), mobilesubstrate
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler	
 Filename: debs/com.deadtweak.com_1.7.1_iphoneos-arm.deb
 Size: 5085850 	
-MD5sum: f6eb394ca1948f7807149633df791d2d	
-SHA1: 8dc2863173ba678916b3c2ec12b750e3beab5794	
+MD5sum: f6eb394ca1948f7807149633df791d2d
+SHA1: 8dc2863173ba678916b3c2ec12b750e3beab5794
 SHA256: 682f5b81d2d9e7985b9935743a97ea6513b779fe92e8318e74a2ad7b9630cab7	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -18,12 +18,11 @@ Package: me.nepeta.unsub
 Version: 0.1.9
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
-Depends:  firmware (>= 9.0), mobilesubstrate 	
-Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12	
+Depends:  firmware (>= 9.0), mobilesubstrate Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12	
 Filename: debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
 Size: 73552	
-MD5sum: 46e9ccbe81d2f6c3670d0051194be14a	
-SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c	
+MD5sum: 46e9ccbe81d2f6c3670d0051194be14a
+SHA1: 5b6dc633c0ac488d955ca72daf7ba0a9ba13e62c
 SHA256: e070d4537b5b1331ecf6f17cf9b06890222d70683323b5244a5391cbcc901b11	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -34,12 +33,11 @@ Package: com.bandarhl.WASend
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
-Depends:  firmware (>= 5.0), mobilesubstrate 	
-Conflicts: co.vexation.nosubstitute,	
+Depends:  firmware (>= 5.0), mobilesubstrate Conflicts: co.vexation.nosubstitute,	
 Filename: debs/com.bandarhl.WASend_1.0_iphoneos-arm.deb
 Size: 9956	
-MD5sum: 2a4e35839792d39f3b615dd59ca0c8e5	
-SHA1: b34e704843ba40b22ca209ebbdbb48f3f521809f	
+MD5sum: 2a4e35839792d39f3b615dd59ca0c8e5
+SHA1: b34e704843ba40b22ca209ebbdbb48f3f521809f
 SHA256: 7e7ff0ccd9100b021442101ab56f817156d48aa5e8d3835d38faf79d84accf76	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -53,8 +51,8 @@ Depends:  mobilesubstrate
 Conflicts: co.vexation.nosubstitute,	
 Filename: debs/com.cydiabc.picsarthack_1.1-1_iphoneos-arm.deb
 size: 68132
-MD5sum: 52c563bbbdc48c7c63aa504746ca1900	
-SHA1: d4c6f8e1d3871e2c90a5536cf5def6f2a3b3b5dd	
+MD5sum: 52c563bbbdc48c7c63aa504746ca1900
+SHA1: d4c6f8e1d3871e2c90a5536cf5def6f2a3b3b5dd
 SHA256: 94e7a6151e7c2ea11595fd73d86190c281be7657945134e724ad5980d3f2b7c0	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -67,8 +65,8 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)	
 Filename: debs/me.nepeta.selector_0.1.3_iphoneos-arm.deb
-MD5sum: 785b5625df8c6e85696b0407af0fb55d	
-SHA1: 4886f4379d2a6e7b9d55ae5077472cd33ed93a82	
+MD5sum: 785b5625df8c6e85696b0407af0fb55d
+SHA1: 4886f4379d2a6e7b9d55ae5077472cd33ed93a82
 SHA256: 3424ee7c3539711e91cbb5b611498ec816b8b9b6afcf539a2808aa3b938f19bc	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
@@ -79,11 +77,10 @@ Package: com.toyopagroup.picaboo
 Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
-Depends:  firmware (>= 5.0), mobilesubstrate 	
-Conflicts:	
+Depends:  firmware (>= 5.0), mobilesubstrate Conflicts:	
 Filename: debs/DzSnap1.0.34T.deb
-MD5sum: 4a3c9b46d009d31a1324aa10b2bf8eb0	
-SHA1: 550a44c93c29f1ed4a2047d7206ea07ea38de780	
+MD5sum: 4a3c9b46d009d31a1324aa10b2bf8eb0
+SHA1: 550a44c93c29f1ed4a2047d7206ea07ea38de780
 SHA256: f31c8df851c116b22b191e8c4bfce29563b22a1addaed7c4d6f40bb50b9fa14b	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
