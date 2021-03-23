@@ -4,6 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends:  firmware (>= 10.0), mobilesubstrate 	
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.pantsthief.snapchatnoclickbait, com.timecompiler.snapchatlog, com.nathaningraham.snapchatlowpowermodeenabler, com.expetelek.keepsnapchatsignedin, com.chloeeisoaky.luminous, com.neinzedd9.scfiltermover, net.ibrahim.scstorytimer, com.ithegentle.snapcheck, com.bengerard.snapselect, com.yungraj.streaknotify, com.n00neimp0rtant.picarchiver, brexit.chloee.snapcolor, com.cokepokes.PhantomFake, com.cokepokes.phantom, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, fr.s0me1ne.snapbreak, com.s0me1ne.atweakdisabler	
+description: اداة السناب بريك للسناب تعمل أفضل اصدار يناسبها 10.78.6.0
 Filename: debs/com.deadtweak.com_1.7.1_iphoneos-arm.deb
 Size: 5085850 	
 MD5sum: f6eb394ca1948f7807149633df791d2d
@@ -13,20 +14,21 @@ Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: DeadTweak
 
-Package: om.cokepokes.appstoreplusplus
-Version: 0.9.14-11
+Package: ca.ndoizo.bolders
+Version: 1.2.2-2
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
-Depends: firmware (>= 11.0), mobilesubstrate	
-Conflicts: com.unlimapps.uaupdatetools
-Filename: debs/com.cokepokes.appstoreplusplus0.9.14-11iphoneos-arm.deb
-Size: 3003986 	
-MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
-SHA1: d0173e732cb21922f62b814d6fc3dda8420b04d4
-SHA256: 79bc273816ca5e01421d50ded66296f611042957f73919de47463ad527c63b8f	
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader	
+Conflicts: 
+description: شكل جميل للمجلدات 
+Filename: debs/bolders.deb
+Size: 66614 	
+MD5sum: d09beae47c405a3439d80c26b82831af
+SHA1: 20d3aac5f62246570e8679837c6e26e0e93a8c72
+SHA256: cfdf024721ec7d17589cfba5051164c9e5f5122a20d8a4e09b39b814404c41f7	
 Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
-Name: appstore++
+Name: bolders
 
 Package: om.cokepokes.appstoreplusplus
 Version: 0.9.14-11
@@ -34,6 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends: firmware (>= 11.0), mobilesubstrate	
 Conflicts: com.unlimapps.uaupdatetools
+description: اداة للرجوع الى أصدارات اقدم 
 Filename: debs/com.cokepokes.appstoreplusplus0.9.14-11iphoneos-arm.deb
 Size: 3003986 	
 MD5sum: a30f8a79a53c9abbfe257d489f2a26f6
@@ -49,6 +52,7 @@ Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker	
 Conflicts: com.burritoz.cartella, com.thomz.foldy
+description: شكل جميل للملفات 
 Filename: debs/floded.deb
 Size: 414874 	
 MD5sum: 756da0ae919cd632beb069e95724f243
