@@ -19,9 +19,9 @@ Version: 1.2.2-2
 Architecture: iphoneos-arm
 Maintainer: AbdullahTweak	
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader	
-Conflicts: 
+Conflicts: ca.ndoizo.bolders
 description: شكل جميل للمجلدات 
-Filename: debs/bolders.deb
+Filename: debs/bolders_1.2.2-2.deb
 Size: 66614 	
 MD5sum: d09beae47c405a3439d80c26b82831af
 SHA1: 20d3aac5f62246570e8679837c6e26e0e93a8c72
