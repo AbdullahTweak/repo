@@ -79,3 +79,21 @@ Description: تصوير الشاشة فيديو بدون علامة مائية �
 author: AbdullahTweak
 Installed-Size: 348
 Name: silentrecorder
+
+Package: com.creaturecoding.touchflow
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: com.creatureesurvive.libcscolorpicker
+Filename: debs/com.creaturecoding.touchflow_1.0.6_iphoneos-arm.deb
+Size: 211020
+MD5sum: 33292003949c73dabe544c9431222ea4
+SHA1: d7a785678a12223822f720f06d3080942bdf09ae
+SHA256: a8de6406fea5e555c108fd9e2920fa9788b456069a3501d2908c1fe5c471ae0d
+Depiction: http:abdullahtweak.github.io/repo
+SileoDepiction: http://abdullahtweak.github.io/repo
+Section: Tweaks
+Description: اداة مفيدة لعمل الشروحات علامة مائية للشرح وامكانية اختيار اللون المناسب لك
+author: AbdullahTweak
+Installed-Size: 820
+Name: TouchFlow
