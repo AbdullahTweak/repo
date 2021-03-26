@@ -97,3 +97,21 @@ Description: اداة مفيدة لعمل الشروحات علامة مائية
 author: AbdullahTweak
 Installed-Size: 820
 Name: TouchFlow
+
+Package: com.p2kdev.floatingdockplus13
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: com.creatureesurvive.libcscolorpicker
+Filename: debs/com.p2kdev.floatingdockplus13_1.1.8_iphoneos-arm.deb
+Size: 84998
+MD5sum: ab4b532133a73f6a8cf381649b7106be
+SHA1: 1ad0fdedb875d92e6d79adb20af75d3b20444dc0
+SHA256: cef728e3de6543b2463ff0ad15f81326e0167789cb6924d05408915eeb102409
+Depiction: http:abdullahtweak.github.io/repo
+SileoDepiction: http://abdullahtweak.github.io/repo
+Section: Tweaks
+Description:   تغيير الدوك السفلي وجعله مثل الايباد 
+author: AbdullahTweak
+Installed-Size: 644
+Name: Floatingdock Plus
