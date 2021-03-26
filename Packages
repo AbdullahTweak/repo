@@ -115,3 +115,17 @@ Description:   تغيير الدوك السفلي وجعله مثل الايبا
 author: AbdullahTweak
 Installed-Size: 644
 Name: Floatingdock Plus
+
+Package: com.bandarhal.ytad
+‏Version: 0.0.1-1+debug
+‏Architecture: iphoneos-arm
+‏Maintainer: AbdullahTweak
+‏Depends: firmware (>= 9.0) 
+‏Filename: debs/com.bandarhl.ytad_0.0.1-1+debug_iphoneos-arm.deb
+Description:حذف الاعلانات المزعجة من اليوتيوب 
+‏Size:5842
+‏MD5sum: b92b44ed0ba405599652180e4f7aa2b4
+‏SHA1: 4096341d1aa2aa8b6b096cf08babbfeccb7b5106
+‏SHA256: 0a31f9bce9d4adae7bd5b1b62421d640e8ba146ce62c37ffb7b783f2350b3312
+‏Section: Tweaks
+‏Name: YTAD
