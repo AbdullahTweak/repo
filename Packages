@@ -63,3 +63,37 @@ Description: تصوير الشاشة فيديو بدون علامة مائية �
 author: AbdullahTweak
 Installed-Size: 348
 Name: silentrecorder
+
+Package: com.bandarhl.WASend
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: mobilesubstrate,
+Filename: debs/wasend1.deb
+Size: 9956
+MD5sum: 2a4e35839792d39f3b615dd59ca0c8e5
+SHA1: b34e704843ba40b22ca209ebbdbb48f3f521809f
+SHA256: 7e7ff0ccd9100b021442101ab56f817156d48aa5e8d3835d38faf79d84accf76
+Depiction: http:abdullahtweak.github.io/repo
+SileoDepiction: http://abdullahtweak.github.io/repo
+Section: Tweaks
+Description: تكرار الرسائل في تطبيق واتس اب تصل الى ألف رسالة
+author: AbdullahTweak
+Name: WASend
+
+Package: com.haoict.tiktokgod
+Version: 1.12.2
+Architecture: iphoneos-arm
+Maintainer: AbdullahTweak
+Depends: mobilesubstrate,
+Filename: debs/tiktokgod.deb
+Size: 53760
+MD5sum: 433fe426ab4f138171a35045f4dbf4e5
+SHA1: 7be4acfb6edb367dcdf28dff2f6d6e7a1d8b7705
+SHA256: b11e2690ad22f6983db61f10b9ad3f4bd6ad3a391e258cf3c214ecc00e239fa6
+Depiction: http:abdullahtweak.github.io/repo
+SileoDepiction: http://abdullahtweak.github.io/repo
+Section: Tweaks
+Description: حفظ فيديوهات تيك توك بدون حقوق
+author: AbdullahTweak
+Name: TiktokGod
