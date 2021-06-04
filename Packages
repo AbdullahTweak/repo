@@ -14,22 +14,6 @@ Section: Tweaks
 Depiction: https://AbdullahTweak.github.io/repo
 Name: DeadTweak
 
-Package: ca.ndoizo.bolders
-Version: 1.2.2-2
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak	
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader	
-Conflicts: ca.ndoizo.bolders
-description: شكل جميل للمجلدات 
-Filename: debs/bolders_1.2.2-2.deb
-Size: 66614 	
-MD5sum: d09beae47c405a3439d80c26b82831af
-SHA1: 20d3aac5f62246570e8679837c6e26e0e93a8c72
-SHA256: cfdf024721ec7d17589cfba5051164c9e5f5122a20d8a4e09b39b814404c41f7	
-Section: Tweaks
-Depiction: https://AbdullahTweak.github.io/repo
-Name: bolders
-
 Package: om.cokepokes.appstoreplusplus
 Version: 0.9.14-11
 Architecture: iphoneos-arm
@@ -79,53 +63,3 @@ Description: تصوير الشاشة فيديو بدون علامة مائية �
 author: AbdullahTweak
 Installed-Size: 348
 Name: silentrecorder
-
-Package: com.creaturecoding.touchflow
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak
-Depends: com.creatureesurvive.libcscolorpicker
-Filename: debs/com.creaturecoding.touchflow_1.0.6_iphoneos-arm.deb
-Size: 211020
-MD5sum: 33292003949c73dabe544c9431222ea4
-SHA1: d7a785678a12223822f720f06d3080942bdf09ae
-SHA256: a8de6406fea5e555c108fd9e2920fa9788b456069a3501d2908c1fe5c471ae0d
-Depiction: http:abdullahtweak.github.io/repo
-SileoDepiction: http://abdullahtweak.github.io/repo
-Section: Tweaks
-Description: اداة مفيدة لعمل الشروحات علامة مائية للشرح وامكانية اختيار اللون المناسب لك
-author: AbdullahTweak
-Installed-Size: 820
-Name: TouchFlow
-
-Package: com.p2kdev.floatingdockplus13
-Version: 1.1.8
-Architecture: iphoneos-arm
-Maintainer: AbdullahTweak
-Depends: com.creatureesurvive.libcscolorpicker
-Filename: debs/com.p2kdev.floatingdockplus13_1.1.8_iphoneos-arm.deb
-Size: 84998
-MD5sum: ab4b532133a73f6a8cf381649b7106be
-SHA1: 1ad0fdedb875d92e6d79adb20af75d3b20444dc0
-SHA256: cef728e3de6543b2463ff0ad15f81326e0167789cb6924d05408915eeb102409
-Depiction: http:abdullahtweak.github.io/repo
-SileoDepiction: http://abdullahtweak.github.io/repo
-Section: Tweaks
-Description:   تغيير الدوك السفلي وجعله مثل الايباد 
-author: AbdullahTweak
-Installed-Size: 644
-Name: Floatingdock Plus
-
-Package: com.bandarhal.ytad
-‏Version: 0.0.1-1+debug
-‏Architecture: iphoneos-arm
-‏Maintainer: AbdullahTweak
-‏Depends: firmware (>= 9.0) 
-‏Filename: debs/com.bandarhl.ytad_0.0.1-1+debug_iphoneos-arm.deb
-Description:حذف الاعلانات المزعجة من اليوتيوب 
-‏Size:5842
-‏MD5sum: b92b44ed0ba405599652180e4f7aa2b4
-‏SHA1: 4096341d1aa2aa8b6b096cf08babbfeccb7b5106
-‏SHA256: 0a31f9bce9d4adae7bd5b1b62421d640e8ba146ce62c37ffb7b783f2350b3312
-‏Section: Tweaks
-‏Name: YTAD
