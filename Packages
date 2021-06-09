@@ -158,3 +158,56 @@ SHA1: 040140c0a37b999eca1045b4e679abf7db537905
 SHA256: 99032f06360b8689f90c98ec3f452b0f5ca0c2c6c5af8fa68e33c863f659b69a
 Filename: debs/watusi1.deb
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: com.rpgfarm.a-font
+Name: A-Font
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Description: لتغيير خط الجهاز بالكامل 
+Maintainer: Baw Appie <pp121324@gmail.com>
+Author: Baw Appie <pp121324@gmail.com>
+Section: Tweaks
+Version: 1.9.3
+Installed-Size: 2380
+Size: 520148
+MD5sum: 7bc06a7cc5f934f97aede3e020ddd2cb
+SHA1: f02852d3afad4fa4cf0b98b01a79e1828c02bc61
+SHA256: 32be71fa13c6188b0314d491a03b4ccc521fea90e890457c94e982e5cbd0d023
+Filename: debs/afont.deb
+Depiction: https://repo.co.kr/depictions/com.rpgfarm.a-font
+SileoDepiction: https://repo.co.kr/api/package/getSileoDepictions/com.rpgfarm.a-font
+Tag: purpose::extension
+
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: debs/flyjbx.deb
+Size: 649864
+MD5sum: 5e955e26724e79ff8ca45032679f9cd9
+SHA1: 7fb5d1a3982b471a2af9e47e904d4d0519df3a16
+SHA256: 96491acad71a3696950acf68b06075c04a8e3753164221f7e8f16fe7ca528419
+Section: Tweaks
+Description: لإخفاء الجلبريك عن التطبيقات 
+Author: XsF1re
+Name: FlyJB X
+
+Package: kr.xsf1re.fastanimator
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/fast.deb
+Size: 16662
+MD5sum: 53792f446f02f118dd0ea920720c19ba
+SHA1: 0def89304e41b1d2548918626dafaeb7dc59a1a0
+SHA256: ea2d78c17359e117faa6efbf07c60e1e765834d0b95bc9b0863253ffec1c488d
+Section: Tweaks
+Description: تسريع الدخول الى البرامج 
+Author: XsF1re
+Name: FastAnimator
+Icon: https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
