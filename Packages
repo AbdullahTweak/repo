@@ -97,3 +97,23 @@ Section: Tweaks
 Description: حفظ فيديوهات تيك توك بدون حقوق
 author: AbdullahTweak
 Name: TiktokGod
+
+Package: ru.rj.carbridge13
+Name: CarBridge
+Version: 2.0.7k
+Description: تشغيل التطبيقات في الشاشات التي تدعم كار بلاي
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Installed-Size: 1195
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=carbridge13
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=carbridge13
+Size: 313892
+MD5sum: 2f8f71906c045064dad79ab28bcaad70
+SHA1: a692658d30ac3431120d673bdcc9f3bc49b10562
+SHA256: 1a8d41384650f1b84d430fa04fa9728c4353b9dd1bda02aa353c16c933ace6a6
+Filename: debs/carbridge2.deb
+Tag: purpose::extension, compatible::ios13, compatible::ios14
