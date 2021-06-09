@@ -117,3 +117,44 @@ SHA1: a692658d30ac3431120d673bdcc9f3bc49b10562
 SHA256: 1a8d41384650f1b84d430fa04fa9728c4353b9dd1bda02aa353c16c933ace6a6
 Filename: debs/carbridge2.deb
 Tag: purpose::extension, compatible::ios13, compatible::ios14
+
+Package: ru.rejail.watusitools
+Name: WatusiTools
+Version: 2.2.4
+Description: الاداة المساعدة لـ واتسي  
+Author: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), darwintools
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), org.mr.watusitools, org.mr.watusi3, org.mr.watusi, org.mr.contactsync, net.myclassic.stalky, net.myclassic.wat3, net.myclassic.watusitools, net.myclassic.watusi3, repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Installed-Size: 39738
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=watusitools
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=watusitools
+Size: 9879114
+MD5sum: b71b7316f75180fc48a2a4f7c0cefc43
+SHA1: ee8234355b7b2ca830e9e6a9e1cafa1918d00937
+SHA256: a7a28abc4b6ba2650e5d8ff710e7e3827f2e8edf0e986b63a1ed2d33298db0c8
+Filename: debs/watusi2.deb
+Tag: purpose::extension
+
+Package: ru.rejail.watusi
+Name: Watusi 2 for WhatsApp Rus
+Version: 1.4.6k
+Description: اداة واتسي بدون أعلانات
+Author: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ru.rejail.watusitools (>= 2.2.3), com.rpetrich.rocketbootstrap, applist, ru.rejail.adblockplus
+Conflicts: org.mr.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Icon: file:///Library/Application Support/Watusi/FRAssets.bundle/Watusi@3x.png
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=watusi
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=watusi
+Installed-Size: 10375
+Size: 2867520
+MD5sum: ad05440325d4cdd632d80a0bf817b503
+SHA1: 040140c0a37b999eca1045b4e679abf7db537905
+SHA256: 99032f06360b8689f90c98ec3f452b0f5ca0c2c6c5af8fa68e33c863f659b69a
+Filename: debs/watusi1.deb
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
