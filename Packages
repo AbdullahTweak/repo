@@ -211,3 +211,44 @@ Description: تسريع الدخول الى البرامج
 Author: XsF1re
 Name: FastAnimator
 Icon: https://i.repo.co.kr/images/com.rpgfarm.a-font-icon-afont.png.png
+
+Package: ru.rejail.cercube
+Name: Cercube for YouTube
+Version: 5.2.23k
+Description: التحميل من اليوتيوب , العمل بالخلفية , قم بالتسجيل بالاداة لإزالة الاعلانات
+Author: Majd Alfhaily
+Depends: firmware (>= 9.0), mobilesubstrate, ru.rejail.adblockplus
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, ru.rejail.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Installed-Size: 15464
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=cercube
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=cercube
+Size: 3798282
+MD5sum: b42449d0f4c3adaaa6206ddc4b89589f
+SHA1: bfcd8dd991c975eb4620802b8bee21d2aa6da841
+SHA256: 1a2cf5b6ce3a00373febdb4d5f6d16584a8808562ea88651d0a4d75d71b8ffe5
+Filename: debs/cercube.deb
+
+Package: ru.rejail.localiapstore
+Name: LocalIAPStore
+Version: 1.4-4
+Description: للشراء من داخل التطبيقات 
+Author: anondev
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Installed-Size: 235
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=localiapstore
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=localiapstore
+Size: 42214
+MD5sum: a46eaf89eac53e47f960d0eff2f472c8
+SHA1: b0e5e78f51453279ee5a8397497813a24d81713f
+SHA256: ad177f8a833347b9f2520a1f136101dced59cf78cd643a31fb79e2859452e728
+Filename: debs/localap.deb
+Tag: purpose::extension, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
