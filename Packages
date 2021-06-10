@@ -252,3 +252,58 @@ SHA256: ad177f8a833347b9f2520a1f136101dced59cf78cd643a31fb79e2859452e728
 Filename: debs/localap.deb
 Tag: purpose::extension, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+
+Package: com.Ali7assan.adblockplus
+Version: 1.4.1A
+Section: Tweaks
+Maintainer: AbdullahTweak
+Architecture: iphoneos-arm
+Filename: debs/adblock11.deb
+Size: 16022
+Installed-Size: 258
+Description: اداة منع الاعلانات من بعض التطبيقات
+Name: AdBlock ++
+Author: AbdullahTweaks
+Depiction: http://Abdullahtweak.github.io/repo
+MD5sum: 32c332c750b6f41bce2c47c5b3236581
+SHA1: f28634bf4529c8c70fcf8a0b949b2583d08f43da
+
+Package: com.Ali7assan.addsource
+Version: 3.2
+Section: Tweaks
+Maintainer: AbdullahTweak
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs/addsource.deb
+Size: 407072
+Installed-Size: 1094
+Description: أضافة السورس بصورة اوتوماتيكية بعد نسخه
+Name: AddSource
+Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
+Depiction: http://abdullahtweak.github.io/repo
+Tag: purpose::extension
+MD5sum: 8eefe9f0914cbfd380322544b28f2d4d
+SHA1: 985377aab61f9d73e495a290c167c554596dd756
+SHA256: 7bc3d692910d62419c5a20b1957855032edb0c735172d9d35f703074ceebf628
+
+Package: com.Ali7assan.bigshotjb11-14.4
+Version: 0.0.2-3
+Priority: optional
+Section: Tweaks
+Maintainer: Abdullahtweak
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap
+Conflicts: com.tapthaker.bigshotjb
+Architecture: iphoneos-arm
+Filename: debs/bigshotjb.deb
+Size: 26258
+Installed-Size: 204
+Description: امكانية تصوير محتوى الصفحة كامل
+ لتخصيص الاماءة حمل اداة Activator
+Name: BigShotJb (ios11-14.4)
+Author: AbdullahTweak
+Depiction: http://abdullahtweak.github.io/repo
+MD5sum: cc07d46686dfc06006e9c6a778816c76
+SHA1: d98d7979ba8b2aa363b23f9107397a084e70c0e4
+SHA256: 04e0bca87861778c3cac2806ba92afe8fbb71f9d78ef74b827a52d4d02276a2c
+
+SHA256: e72dbd15d2ab17f599961ac35668b509e4549f13505b0543f46aee6f4012f5cc
