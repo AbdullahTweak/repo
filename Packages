@@ -306,3 +306,20 @@ MD5sum: cc07d46686dfc06006e9c6a778816c76
 SHA1: d98d7979ba8b2aa363b23f9107397a084e70c0e4
 SHA256: 04e0bca87861778c3cac2806ba92afe8fbb71f9d78ef74b827a52d4d02276a2c
 SHA256: e72dbd15d2ab17f599961ac35668b509e4549f13505b0543f46aee6f4012f5cc
+
+Package: com.Ali7assan.Legizmo
+Version: 1.0-21MB081325i
+Section: Tweaks
+Maintainer: AbdullahTweak
+Depends: mobilesubstrate, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/964.deb
+Size: 406696
+Installed-Size: 1840
+Description: لحل مشكلة طلب التحديث بساعة آبل
+Name: Legizmo
+Author: Ali7assan
+Depiction: https://abdullahtweak.github.io/repo
+MD5sum: 2947977a077337d1638c9510d8c22910
+SHA1: f852c903b0c653dd3f40480ec3a9b9b54d7adce7
+SHA256: 924cde1214f84a796a5d3c18ac269f7c06d1506825ff158b2e3197d56612017b
